@@ -5,5 +5,5 @@ applications:
     routes:
       - route: pal-tracker-sypark-sjlee.apps.evans.pal.pivotal.io
     env:
-      WELCOME_MESSAGE: Hi, We've done all, try again.
+      WELCOME_MESSAGE: Hi, We've done all, try again. sjlee5
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
