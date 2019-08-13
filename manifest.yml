@@ -5,5 +5,5 @@ applications:
     routes:
       - route: pal-tracker-sypark-sjlee.apps.evans.pal.pivotal.io
     env:
-      WELCOME_MESSAGE: Hello from the review environment
+      WELCOME_MESSAGE: Hi, We've done Lab3
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
